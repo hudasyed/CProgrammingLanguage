@@ -1,0 +1,1 @@
+This program should be tested by putting it up against escape characters and identifying how it performance against those. These would be /n, /t, etc.
